@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict on rm
+=======
+conflict on lc
+>>>>>>> 58b5b84 (in local)
